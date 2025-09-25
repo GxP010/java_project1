@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM)
+<img width="1723" height="130" alt="image" src="https://github.com/user-attachments/assets/cfbde876-4b14-4afa-b1cd-dbcd2287b05f" /># Campus Course & Records Manager (CCRM)
 
 A **console-based Java SE application** to manage students, courses, enrollments, grades, and file operations such as import/export and backup.  
 This project follows clean OOP design principles and package conventions for academic submission.
@@ -192,4 +192,4 @@ It reflects how Java evolved from simple procedural coding (JDK 1.0) to robust O
 ---
 
 ## 👨‍💻 Author
-### Developed by RAJ SACHAN
+### Developed by GARVIT PANT
